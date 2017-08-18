@@ -1,0 +1,8 @@
+.idea
+build
+.gradle
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+/morfologik-stemmer-cli.ipr
+/morfologik-stemmer-cli.iml
+/morfologik-stemmer-cli.iws
